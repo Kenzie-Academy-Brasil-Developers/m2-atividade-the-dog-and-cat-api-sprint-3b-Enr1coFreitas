@@ -1,0 +1,27 @@
+header{
+    background-color:#8E3FE8;
+    margin: 0px;
+    padding: 0px;
+}
+#titulo{
+    font-size: 30px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
